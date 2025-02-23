@@ -1,0 +1,12 @@
+export const postLoginPath = "/api/auth/login";
+export const postLogoutPath = "/api/auth/logout";
+export const putChangePassword = "/api/auth/change-password";
+export const getUserLoggedInPath = "/api/users/profile";
+export const putUserProfile = "/api/users/profile";
+export const getAllUsersPath = '/api/users/all'
+export const categoriesPath = '/api/categories'
+export const questionsPath = '/api/questions'
+export const ticketsPath = '/api/tickets'
+export const exportsPath = '/api/exports'
+export const PhoneNumberPath = '/api/phonenumber'
+export const getWidgetPath ='/api/widgets'
